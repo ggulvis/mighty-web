@@ -1,0 +1,16 @@
+{
+  "name": "마이티 — 5인 트릭테이킹",
+  "short_name": "마이티",
+  "description": "마이티 카드게임. 페르소나 AI와 1인 연습하거나, 각자 폰으로 온라인 대전을.",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#101418",
+  "theme_color": "#101418",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
